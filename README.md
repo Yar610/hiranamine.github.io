@@ -141,7 +141,7 @@
 				<h2>Upgrades</h2>
 				<p>GPU Upgrade: +0.0001 H/s (cost: 1 HRN)</p>
 				<button class="upgrade-button" id="gpu-upgrade">Buy</button>
-				<p>ASICUpgrade: +0.0005 H/s (cost: 2.5 HRN)</p>
+				<p>ASIC Upgrade: +0.0005 H/s (cost: 2.5 HRN)</p>
 				<button class="upgrade-button" id="asic-upgrade">Buy</button>
 				<p>FPGA Upgrade: +0.0003 H/s (cost: 1.8 HRN)</p>
 				<button class="upgrade-button" id="fpga-upgrade">Buy</button>
